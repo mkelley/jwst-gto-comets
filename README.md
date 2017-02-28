@@ -12,6 +12,8 @@ Target: 46P/Wirtanen
 |NIRSpec   |IFU, R~2700       |Spectral map: water, CO2, CO, maybe others; detections: CH4, C2H6, C2H2, CH3OH, H2CO|
 |MIRI      |LRS, R~100        |Long-slit mode, spectral map for water band, dust|
 
+Gas lines modeled by the [Planetary Spectrum Generator](http://ssed.gsfc.nasa.gov/psg/)
+
 ## Detection of water in the coma of a main-belt comet
 Goal: To test the cometary nature of MBCs.
 
