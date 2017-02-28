@@ -1,10 +1,15 @@
 # jwst-gto-comets
 Comet observation design for a JWST GTO program.
 
+Science Lead: Mike Kelley, UMD
+JWST GTO Principal Investigator: Heidi Hammel, AURA
+
 ## Spectral mapping of a comet coma
 Goal: To excercise JWSTs spectral mapping capabilities at a comet.
 
 Target: 46P/Wirtanen
+
+Science team: Chick Woodward (UMN), Silvia Protopapa (UMD)
 
 |Instrument|Mode              |Notes                            |
 |----------|------------------|---------------------------------|
@@ -18,6 +23,8 @@ Gas lines modeled by the [Planetary Spectrum Generator](http://ssed.gsfc.nasa.go
 Goal: To test the cometary nature of MBCs.
 
 Target: 313P/Gibbs
+
+Science team: Henry Hsieh (PSI), Dennis Bodewits (UMD)
 
 |Instrument|Mode              |Notes                            |
 |----------|------------------|---------------------------------|
