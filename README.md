@@ -2,6 +2,7 @@
 Comet observation design for a JWST GTO program.
 
 Science Lead: Mike Kelley, UMD
+
 JWST GTO Principal Investigator: Heidi Hammel, AURA
 
 ## Spectral mapping of a comet coma
