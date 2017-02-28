@@ -12,11 +12,11 @@ Target: 46P/Wirtanen
 
 Science team: Chick Woodward (UMN), Silvia Protopapa (UMD)
 
-|Instrument|Mode              |Notes                            |
-|----------|------------------|---------------------------------|
-|NIRSpec   |IFU, Prism (R~100)|Dust, ice, major gas species     |
-|NIRSpec   |IFU, R~2700       |Spectral map: water, CO2, CO, maybe others; detections: CH4, C2H6, C2H2, CH3OH, H2CO|
-|MIRI      |LRS, R~100        |Long-slit mode, spectral map for water band, dust|
+|Instrument|Mode              |Goals|Notes|
+|----------|------------------|-----|-----|
+|NIRSpec   |IFU, Prism (R~100)|Detect continuum at SNR~100|Dust, potential ice, major gas species.|
+|NIRSpec   |IFU, R~2700       |At least map water and CO2, detect other gasses|Water, CO2, CO, CH4, C2H6, C2H2, CH3OH, H2CO|
+|MIRI      |LRS, R~100        |Detect continuum at SNR~100|Long-slit mode, spectral map for water band, dust|
 
 Gas lines modeled by the [Planetary Spectrum Generator](http://ssed.gsfc.nasa.gov/psg/)
 
